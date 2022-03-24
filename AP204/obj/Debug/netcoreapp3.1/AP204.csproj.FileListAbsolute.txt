@@ -1,0 +1,13 @@
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.csproj.AssemblyReference.cache
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.AssemblyInfoInputs.cache
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.AssemblyInfo.cs
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Desktop/AP204/AP204/bin/Debug/netcoreapp3.1/AP204.deps.json
+/Users/sunaljabili/Desktop/AP204/AP204/bin/Debug/netcoreapp3.1/AP204.runtimeconfig.json
+/Users/sunaljabili/Desktop/AP204/AP204/bin/Debug/netcoreapp3.1/AP204.runtimeconfig.dev.json
+/Users/sunaljabili/Desktop/AP204/AP204/bin/Debug/netcoreapp3.1/AP204.dll
+/Users/sunaljabili/Desktop/AP204/AP204/bin/Debug/netcoreapp3.1/AP204.pdb
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.dll
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.pdb
+/Users/sunaljabili/Desktop/AP204/AP204/obj/Debug/netcoreapp3.1/AP204.genruntimeconfig.cache
